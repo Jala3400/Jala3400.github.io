@@ -1,7 +1,0 @@
-:root{
-    --tag-role-cursor: pointer;
-}
-.botTagRegular-2HEhHi,
-.role-2irmR0{
-    cursor: var(--tag-role-cursor);
-}
