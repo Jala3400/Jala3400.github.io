@@ -32,7 +32,8 @@ wrapper-1BJsBx da-wrapper{
     align-items: var(--discord-logo-location)!important;
 }
 .container-1r6BKw,
-.searchBar-6Kv8R2{
+.searchBar-6Kv8R2,
+.header-2V-4Sw{
     height: var(--nav-bar-height)!important;
 }
 
