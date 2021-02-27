@@ -26,10 +26,7 @@
 }
 .wrapper-1BJsBx{
     border-radius: var(--server-icon-roundness)!important;
-    align-items: var (--server-text-location)!important;
-}
-wrapper-1BJsBx da-wrapper{
-    align-items: var(--discord-logo-location)!important;
+    align-items: var(--server-text-location)!important;
 }
 .container-1r6BKw,
 .searchBar-6Kv8R2,
