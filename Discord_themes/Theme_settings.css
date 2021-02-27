@@ -1,7 +1,44 @@
 :root{
-    --tag-role-cursor: pointer;
+    /* Vanilla */
+    --discord-logo-location: center; /* Default value = center */
+    --server-text-location: center; /* Default value = center */
+    --server-icon-roundness: 50%; /* Default value = 50% */
+    --channels-column-width: 240px; /* Default value = 240px*/
+    --now-playing-column_max-width: 420px; /* Default value = 420 */
+    --now-playing-column_min-width: 360px; /* Default value = 360*/
+    --nav-bar-height: 48px; /* Default value = 48px */
+    
+    /* Plugins*/
+    /* Edit users*/
+    --tag-role-cursor: pointer; /* The tag of the user.  Default value = 240px*/
 }
+/* Vanilla */
 .botTagRegular-2HEhHi,
 .role-2irmR0{
-    cursor: var(--tag-role-cursor);
+    cursor: var(--tag-role-cursor)!important;
+}
+.sidebar-2K8pFh{
+    width: var(--channels-column-width)!important;
+}
+.nowPlayingColumn-2sl4cE{
+    min-width: var(--now-playing-column_min-width)!important;
+    max-width: var(--now-playing-column_max-width)!important;
+}
+.wrapper-1BJsBx{
+    border-radius: var(--server-icon-roundness)!important;
+    align-items: var (--server-text-location)!important;
+}
+wrapper-1BJsBx da-wrapper{
+    align-items: var(--discord-logo-location)!important;
+}
+.container-1r6BKw,
+.searchBar-6Kv8R2{
+    height: var(--nav-bar-height)!important;
+}
+
+/* Plugins */
+/* Edit users */
+.botTagRegular-2HEhHi,
+.role-2irmR0{ /* */
+    cursor: var(--tag-role-cursor)!important;
 }
