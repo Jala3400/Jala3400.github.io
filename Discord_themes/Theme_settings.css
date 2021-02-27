@@ -1,8 +1,7 @@
 :root{
     /* Vanilla */
-    --discord-logo-location: center; /* Default value = center */
-    --server-text-location: center; /* Default value = center */
     --server-icon-roundness: 50%; /* Default value = 50% */
+    --server-text-location: center; /* Default value = center */
     --channels-column-width: 240px; /* Default value = 240px*/
     --now-playing-column_max-width: 420px; /* Default value = 420 */
     --now-playing-column_min-width: 360px; /* Default value = 360*/
