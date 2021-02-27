@@ -1,6 +1,5 @@
 :root{
     /* Vanilla */
-    --server-icon-roundness: 50%; /* Default value = 50% */
     --server-text-location: center; /* Default value = center */
     --channels-column-width: 240px; /* Default value = 240px*/
     --now-playing-column_max-width: 420px; /* Default value = 420 */
@@ -22,10 +21,6 @@
 .nowPlayingColumn-2sl4cE{
     min-width: var(--now-playing-column_min-width)!important;
     max-width: var(--now-playing-column_max-width)!important;
-}
-.childWrapper-anI2G9{
-    border-radius: var(--server-icon-roundness)!important;
-    align-items: var(--server-text-location)!important;
 }
 .container-1r6BKw,
 .searchBar-6Kv8R2,
