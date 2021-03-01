@@ -1,3 +1,6 @@
+:root{
+  --homapage-image: url(https://jala3400.github.io//Discord_themes/Better_icons/Icons/Icono_galaxia-central.svg);
+}
 /* TITLE BAR -> ICONS -> NEW GROUP DM */
 /* TITLE BAR -> ICONS -> START VOICE CALL */
 /* TITLE BAR -> ICONS -> START VIDEO CALL */
@@ -245,6 +248,37 @@
 transform: scale(1.5);
 height: 24px;
 }
+
+/* SETTINGS TABS ICONS */
+/* MY ACCOUNT */
+/* PRIVACY */
+/* AUTHORIZED APPS */
+/* CONNECTIONS */
+/* NITRO */
+/* NITRO SERVER BOOST */
+/* INVENTORY */
+/* BILLYING */
+/* VOICE ANDO VIDEO */
+/* TEXT AND IMAGES */
+/* APPEARANCE */
+/* NOTIFICATIONS */
+/* KEYBINDS */
+/* LANGUAJE */
+/* WINDOWS */
+/* STREAMER ACTIVITY */
+/* GAME ACTIVITY */
+/* OVERLAY */
+/* CHANGELOG */
+/* HYPESCUAD */
+/* EXPERIMENTS */
+/* DEVELOPPER OPTIONS */
+/* SETTINGS */
+/* EMOTES */
+/* CUSTOM CSS*/
+/* PLUGINS */
+/* PLUGIN REPO */
+/* THEMES */
+/* THEME REPO */
 .side-8zPYf6 .item-PXvHYJ[aria-controls="My Account-tab"]:before,
 #bd-settings-sidebar .ui-tab-bar-item[aria-controls="My Account-tab"]:before {
   background-image:url(https://clearvision.gitlab.io/icons/person.svg)!important;
@@ -362,4 +396,9 @@ height: 24px;
 #bd-settings-sidebar .ui-tab-bar-item[aria-controls="themerepo-tab"]:before{
   background-image: url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/files/icons/themes.svg)!important;
   background-repeat: no-repeat;
+}
+
+/* HOMEPAGE IMAGE */
+.homeIcon-tEMBK1{
+  background-image: url(var(--homepage-image)); !important
 }
