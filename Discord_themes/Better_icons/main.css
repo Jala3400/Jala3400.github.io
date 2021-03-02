@@ -1,5 +1,5 @@
 :root{
-  --homepage-image: url(https://jala3400.github.io//Discord_themes/Better_icons/Icons/Icono_galaxia-central.svg);
+  --home-image: url(https://jala3400.github.io//Discord_themes/Better_icons/Icons/Icono_galaxia-central.svg);
 }
 /* TITLE BAR -> ICONS -> NEW GROUP DM */
 /* TITLE BAR -> ICONS -> START VOICE CALL */
@@ -400,5 +400,5 @@
 
 /* HOMEPAGE IMAGE */
 .homeIcon-tEMBK1{
-  background-image: var(--homepage-image)!important;
+  background-image: var(--home-image)!important;
 }
