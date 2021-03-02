@@ -75,6 +75,7 @@
 /* CHANNELS LIST -> CHANNEL -> VOICE ICONS */
 .content-1Wq3SX .icons-1dXQdz .icon-2IuuZd path {
   display: none;
+}
 /* CHANNELS LIST -> CHANNEL -> VOICE ICONS -> MUTED */
 /* CHANNELS LIST -> CHANNEL -> VOICE ICONS -> DEAFENED */
 /* CHANNELS LIST -> CHANNEL -> VOICE ICONS -> WEBCAM */
@@ -89,6 +90,7 @@
   d: path("M15 8v8H5V8h10m1-2H4c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1v-3.5l4 4v-11l-4 4V7c0-.55-.45-1-1-1z") !important; }
 .iconItem-F7GRxr .actionIcon-PgcMM2 path {
   transform: scale(0.72);
+  }
 /* CHANNELS LIST -> CHANNEL -> ICONS -> CREATE/INVITE */
 /* CHANNELS LIST -> CHANNEL -> ICONS -> EDIT CHANNEL */ }
 .iconItem-F7GRxr .actionIcon-PgcMM2 path[d="M14 2H16V3H14V5H13V3H11V2H13V0H14V2Z"] {
