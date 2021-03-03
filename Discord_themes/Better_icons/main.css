@@ -1,5 +1,11 @@
 :root{
-  --home-image: url(https://jala3400.github.io//Discord_themes/Better_icons/Icons/Icono_galaxia-central.svg);
+    --home-image: url("https://clearvision.gitlab.io/icons/discord.svg"); /* Default: url("https://clearvision.gitlab.io/icons/discord.svg")
+    Others: https://jala3400.github.io//Discord_themes/Better_icons/Icons/Icono_galaxia-central.svg
+            https://jala3400.github.io//Discord_themes/Better_icons/Icons/Icono_galaxia-nebulosa-roja.svg
+            https://jala3400.github.io//Discord_themes/Better_icons/Icons/Icono_galaxia-nebulosa-rgb.svg
+            https://jala3400.github.io//Discord_themes/Better_icons/Icons/Icono_galaxia-nebulosa-rgb2.svg
+            https://jala3400.github.io//Discord_themes/Better_icons/Icons/Icono_galaxia-burbujas.svg
+            */
 }
 /* TITLE BAR -> ICONS -> NEW GROUP DM */
 /* TITLE BAR -> ICONS -> START VOICE CALL */
