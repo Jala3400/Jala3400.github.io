@@ -424,6 +424,8 @@
 
 /* HOMEPAGE IMAGE */
 .homeIcon-tEMBK1{
-  .homeIcon-tEMBK1{width:100%;height:100%;background:var(--home-icon) center/40px no-repeat}
+  width:100%;
+  height:100%;
+  background:var(--home-icon) center/40px no-repeat
 }
 .homeIcon-tEMBK1>path{display:none}
