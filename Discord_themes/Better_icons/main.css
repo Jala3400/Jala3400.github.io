@@ -279,6 +279,9 @@
 /* PLUGIN REPO */
 /* THEMES */
 /* THEME REPO */
+.sidebar-CFHs9e .item-PXvHYJ:before{
+  content:"";
+}
 .side-8zPYf6 .item-PXvHYJ[aria-controls="My Account-tab"]:before,
 #bd-settings-sidebar .ui-tab-bar-item[aria-controls="My Account-tab"]:before {
   background-image:url(https://clearvision.gitlab.io/icons/person.svg)!important;
