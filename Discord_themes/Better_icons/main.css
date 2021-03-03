@@ -402,3 +402,4 @@
 .homeIcon-tEMBK1{
   background-image: var(--home-image)!important;
 }
+.homeIcon-tEMBK1>path{display:none}
