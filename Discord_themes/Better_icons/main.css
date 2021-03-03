@@ -279,8 +279,16 @@
 /* PLUGIN REPO */
 /* THEMES */
 /* THEME REPO */
+.sidebar-CFHs9e .item-PXvHYJ{
+  padding-left: 50px !important;
+}
 .sidebar-CFHs9e .item-PXvHYJ:before{
   content:"";
+  position:absolute;
+  width:24px;
+  height:24px;
+  left:15px;
+  margin-top:-2px;
 }
 .side-8zPYf6 .item-PXvHYJ[aria-controls="My Account-tab"]:before,
 #bd-settings-sidebar .ui-tab-bar-item[aria-controls="My Account-tab"]:before {
