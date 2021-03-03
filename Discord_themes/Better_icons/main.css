@@ -285,19 +285,6 @@
 /* PLUGIN REPO */
 /* THEMES */
 /* THEME REPO */
-.side-8zPYf6 .item-PXvHYJ{
-  height:unset;
-  padding:8px 0 8px 20px;
-  margin:0;
-  color:rgba(255,255,255,0.3);
-  -webkit-backface-visibility:hidden;
-  backface-visibility:hidden;
-  transition:all .15s ease-in-out;
-  cursor:pointer}
-.layer-3QrUeG .standardSidebarView-3F1I7i .side-8zPYf6 .item-PXvHYJ:hover{
-  background-color:rgba(255,255,255,0.07);
-  color:rgba(255,255,255,0.7)}
-
 .sidebar-CFHs9e .item-PXvHYJ{
   padding-left: 50px !important;
 }
