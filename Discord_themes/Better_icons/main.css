@@ -1,5 +1,5 @@
 :root{
-    --home-icon: url("https://clearvision.gitlab.io/icons/discord.svg"); /* Default: url("https://clearvision.gitlab.io/icons/discord.svg")
+    --home-image: url("https://clearvision.gitlab.io/icons/discord.svg"); /* Default: url("https://clearvision.gitlab.io/icons/discord.svg")
     Others: https://jala3400.github.io//Discord_themes/Better_icons/Icons/Icono_galaxia-central.svg
             https://jala3400.github.io//Discord_themes/Better_icons/Icons/Icono_galaxia-nebulosa-roja.svg
             https://jala3400.github.io//Discord_themes/Better_icons/Icons/Icono_galaxia-nebulosa-rgb.svg
@@ -419,6 +419,6 @@
 .homeIcon-tEMBK1{
   width:100%;
   height:100%;
-  background:var(--home-icon) center/40px no-repeat!important;
+  background:var(--home-image) center/40px no-repeat!important;
 }
 .homeIcon-tEMBK1>path{display:none}
