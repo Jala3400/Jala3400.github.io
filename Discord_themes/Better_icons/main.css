@@ -419,6 +419,6 @@
 .homeIcon-tEMBK1{
   width:100%;
   height:100%;
-  background:var(--home-icon) center/40px no-repeat
+  background:var(--home-icon) center/40px no-repeat!important;
 }
 .homeIcon-tEMBK1>path{display:none}
