@@ -1,0 +1,243 @@
+root {
+    --blue-background-lighter: rgb(33, 38.5, 51);
+    --blue-background-light: rgb(30, 35, 46);
+    --blue-background-dark: rgb(24, 28, 37);
+    --blue-background-darker: rgb(20, 23.5, 31);
+    --blue-background-verydark: rgb(16, 19, 25);
+}
+/* GENERAL */
+.channelTextArea-rNsIhG, .scrollableContainer-2NUZem, .browseSearchInput-Jt8kg0,.emojiRow-zIc7ZX .emojiAliasInput-1y-NBz .emojiInput-1aLNse,.input-2VB9rf,.libraryFilter-31ZUa2 .libraryFilterInput-3JzqZD,.need-help-modal.form.deprecated .header input[type=text],.note-3kmerW textarea:focus,.plugin-settings input[type=text],.search .search-bar,.search-2oPWTC .searchBar-3dMhjb,.search-bar .search-bar-inner,.searchBar-1MOL6S,.searchBar-2_Yu-C .searchBarInner-1_Tg2R,.searchBar-2_Yu-C.searchBarLight-1NxoDG,.searchBar-2_Yu-C.searchBarLight-1NxoDG .searchBarInner-1_Tg2R,.searchBox-3Y2Vi7,.theme-dark .input-2VB9rf,.theme-dark .input-2VB9rf:focus {
+	background-color: rgb(24, 28, 37)!important;
+	box-shadow: inset 0 0 100000px rgba(0,0,0,.5)!important;
+	border: 1px solid rgba(0,0,0,.25)!important;
+	border-radius: 5px!important;
+}.channelTextArea-rNsIhG {
+	padding-top: 0;
+	margin: 4px 0;
+	border: none!important
+}
+.colorDefault-2K3EoJ.focused-3afm-j{
+ background-color:rgb(20, 23.5, 31)!important;
+}
+/* NAV BAR */
+.titleBar-AC4pGV {
+    background-color: rgb(16, 19, 25);
+    margin: 0px;
+    vertical-align: center;
+}
+.theme-dark .children-19S4PO:after {
+    display: none;
+}
+.container-1r6BKw.themed-ANHk51,
+.searchBar-6Kv8R2,
+.platform-win .scroller-2TZvBN,
+#app-mount .peopleListItem-2nzedh:hover,
+.thin-1ybCId,
+.panels-j1Uci_,
+.clickable-25tGDB,
+.container-cMG81i {
+    background-color: rgb(24, 28, 37);
+}
+.sidebar-2K8pFh.hideElement .container-3baos1 {
+    background-color: rgb(33, 38.5, 51) !important;
+}
+.container-1r6BKw.themed-ANHk51,
+.clickable-25tGDB .header-2V-4Sw,
+.headerBar-UHpsPw,
+.searchBar-6Kv8R2 {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+/* FREIND LIST / CHAT */
+#app-mount .peopleListItem-2nzedh {
+    background: rgb(30, 35, 46);
+    border-radius: 5px;
+    border: none;
+    line-height: normal;
+    margin: 0 20px 10px 20px;
+    padding: 0 15px;
+}
+.actionButton-uPB8Fs {
+    background-color: rgb(24, 28, 37);
+}
+.peopleListItem-2nzedh:hover .actionButton-uPB8Fs {
+    background-color: rgb(16, 19, 25);
+}
+#app-mount .peopleListItem-2nzedh:hover {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+.chatContent-a9vAAp,
+.chat-3bRxxu form,
+.contentRegionScroller-26nc1e,
+.peopleList-3c4jOR,
+.friendsEmpty-1K9B4k {
+    background-color: rgb(33, 38.5, 51);
+}
+.theme-dark .form-2fGMdU:before{
+    display: none;
+}
+.scroller-2LSbBU::-webkit-scrollbar-track,
+.peopleList-3c4jOR::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+.scroller-2LSbBU::-webkit-scrollbar-thumb,
+.peopleList-3c4jOR::-webkit-scrollbar-thumb {
+    background-color:rgb(24, 28, 37);
+}
+.scroller-2LSbBU::-webkit-scrollbar-thumb:hover,
+.peopleList-3c4jOR::-webkit-scrollbar-thumb:hover {
+    background-color:rgb(16, 19, 25);
+}
+.wrapper-1F5TKx,
+.wrapper-3vR61M {
+    background-color:rgb(33, 38.5, 51);
+}
+.reactions-12N0jA{
+    background-color: transparent!important;
+}
+/* MEMBER LIST / CHANNEL LIST / DM / NOW PLAYING */
+.fade-2kXiP2,
+.members-1998pB,
+.members-1998pB > div,
+.nowPlayingColumn-2sl4cE,
+.nowPlayingScroller-2XrVUt,
+.container-UC8Ug1,
+.wrapper-3D2qGf,
+.theme-dark .inset-3sAvek {
+    background-color: rgb(30, 35, 46);
+}
+.layout-2DM8Md:hover,
+.content-1x5b-n:hover {
+    background-color:  rgb(24, 28, 37)!important;
+}
+.emptyCard-1RJw8n,
+.outer-1AjyKL,
+.selected-aXhQR6 .layout-2DM8Md,
+.modeSelected-346R90 .content-1x5b-n {
+    background-color: rgb(24, 28, 37);
+}
+.emptyCard-1RJw8n:hover,
+.outer-1AjyKL:hover {
+    background-color: rgb(16, 19, 25) !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+    background-color: rgb(16, 19, 25);
+}
+.scroller-zPkAnE::-webkit-scrollbar-track,
+.fade-2kXiP2::-webkit-scrollbar-track {
+    background-color: transparent!important;
+}
+.scroller-zPkAnE::-webkit-scrollbar-thumb,
+.fade-2kXiP2::-webkit-scrollbar-thumb {
+    background-color:rgb(16, 19, 25);
+}
+/* SETTINGS */
+.side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ,
+.sidebar-CFHs9e .item-PXvHYJ:hover{
+    background-color: rgb(24, 28, 37)!important;
+}
+.background-1QDuV2,
+.item-26Dhrx {
+    background-color: rgb(30, 35, 46);
+}
+.fieldList-21DyL8,
+.item-26Dhrx[aria-checked=true] {
+    background-color: rgb(24, 28, 37);
+}
+.accountList-33MS45,
+.connectionHeader-2MDqhu,
+.formNotice-2_hHWR,
+.authedApp-mj2Hmd,
+.codeRedemptionRedirect-1wVR4b {
+    background-color: rgb(30, 35, 46)!important;
+    border-color: transparent!important;
+}
+.connectionOptionsWrapper-3KIj1Z,
+.accountBtn-2Nozo3 .accountBtnInner-sj5jLs {
+    background-color: rgb(24, 28, 37)!important;
+}
+.feature-2w65J5{
+    background-color:  rgb(30, 35, 46)!important;
+}
+.preview-2nSL_2{
+    background-color: rgb(24, 28, 37)!important;
+}
+.bd-addon-list .bd-addon-header{
+    background-color: rgb(30, 35, 46);
+}
+.bd-description-wrap,
+.bd-addon-list .bd-footer{
+    background-color: rgb(24, 28, 37);
+}
+.repoHeader-2KfNvH{
+    background-color: rgb(30, 35, 46);
+}
+.theme-dark .root-1gCeng{
+    background-color: rgb(24, 28, 37);
+}
+.contentRegionScroller-26nc1e::-webkit-scrollbar-track{
+    background-color: transparent;
+}
+.contentRegionScroller-26nc1e::-webkit-scrollbar-thumb{
+    background-color:rgb(24, 28, 37);
+}
+.contentRegionScroller-26nc1e::-webkit-scrollbar-thumb:hover{
+    background-color:rgb(16, 19, 25);
+}
+/* MESSAGES */
+.container-1ov-mD>*{
+    background-color:rgb(24, 28, 37);
+}
+.wrapper-2aW0bm,
+.bf-toolbar .format,
+.bf-toolbar.bf-visible:before,
+.bf-toolbar.bf-hover:hover:before {
+    background-color: rgb(24, 28, 37);
+}
+/* SERVER COLUMN */
+.circleIconButton-jET_ig {
+    background-color: rgb(16, 19, 25);
+}
+.expandedFolderBackground-2sPsd- {
+    background-color: rgb(16, 19, 25);
+}
+.expandedFolderIconWrapper-1xLaU-{
+    background-color: rgb(20, 23.5, 31);
+}
+/* Go to */
+.quickswitcher-3JagVE {
+    background-color: rgb(24, 28, 37);
+    border:none;
+}
+.input-2VB9rf{
+    background-color: rgb(16, 19, 25);
+}
+/* CREATE A SERVER */
+.header-3msK0M,
+.theme-dark .footer-2gL1pp {
+    background-color: rgb(24, 28, 37);
+    border:none;
+}
+.container-1CE3eW {
+    background-color: rgb(24, 28, 37);
+}
+.colorHeaderPrimary-26Jzh- {
+    color: white;
+}
+.text-1FOLJS,
+.footerTitle-2CYZch {
+    color: lightgrey;
+}
+/* EXPLORE SERVERS */
+.theme-dark .pageWrapper-1PgVDX{
+    background-color: rgb(24, 28, 37);
+}
+.search-1iTphC .searchBox-2_mAlO .searchBoxInput-K6mkng {
+    color: white;
+}
+.card-3DjzTQ{
+    background-color: rgb(16, 19, 25)!important;
+}
+.iconMask-3b8GzQ{
+    background-color: rgb(24, 28, 37);
+}
