@@ -1,15 +1,10 @@
-/**
-* @name Better icons local
-* @description Iconos con toques diferentes
-* @author Jala 3400
-*/
 :root {
-    --home-image: url("https://clearvision.gitlab.io/icons/discord.svg"); /* Default: url("https://clearvision.gitlab.io/icons/discord.svg")
-    Others: https://jala3400.github.io//Discord_themes/Better_icons/Icons/Icono_galaxia-central.svg
-            https://jala3400.github.io//Discord_themes/Better_icons/Icons/Icono_galaxia-nebulosa-roja.svg
-            https://jala3400.github.io//Discord_themes/Better_icons/Icons/Icono_galaxia-nebulosa-rgb.svg
-            https://jala3400.github.io//Discord_themes/Better_icons/Icons/Icono_galaxia-nebulosa-rgb2.svg
-            https://jala3400.github.io//Discord_themes/Better_icons/Icons/Icono_galaxia-burbujas.svg
+    --home-image: url("https://jala3400.github.io//Discord_themes/Better_icons/Icons/Home_icon/Old.svg"); /* Default: url("https://jala3400.github.io//Discord_themes/Better_icons/Icons/Home_icon/Old.svg")
+    Others: https://jala3400.github.io//Discord_themes/Better_icons/Icons/Home_icon/Icono_galaxia-central.svg
+            https://jala3400.github.io//Discord_themes/Better_icons/Icons/Home_icon/Icono_galaxia-nebulosa-roja.svg
+            https://jala3400.github.io//Discord_themes/Better_icons/Icons/Home_icon/Icono_galaxia-nebulosa-rgb.svg
+            https://jala3400.github.io//Discord_themes/Better_icons/Icons/Home_icon/Icono_galaxia-nebulosa-rgb2.svg
+            https://jala3400.github.io//Discord_themes/Better_icons/Icons/Home_icon/Icono_galaxia-burbujas.svg
             data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiBoZWlnaHQ9IjQ4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSI0OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PHBhdGggZD0iTTIxIDZoLTJ2OUg2djJjMCAuNTUuNDUgMSAxIDFoMTFsNCA0VjdjMC0uNTUtLjQ1LTEtMS0xem0tNCA2VjNjMC0uNTUtLjQ1LTEtMS0xSDNjLS41NSAwLTEgLjQ1LTEgMXYxNGw0LTRoMTBjLjU1IDAgMS0uNDUgMS0xeiIvPjwvc3ZnPg==
             */
     --smaller-scale: 0.8;
@@ -881,7 +876,7 @@
 }
 .side-8zPYf6 .item-PXvHYJ[aria-controls="Emotes-tab"]:before,
 .sidebar-CFHs9e .item-PXvHYJ[aria-controls="EMOJI-tab"]:before {
-    -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/emoji.svg)
+    -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/emote.svg)
         center/contain no-repeat !important;
 }
 .side-8zPYf6 .item-PXvHYJ[aria-controls="customcss-tab"]:before {
@@ -889,7 +884,7 @@
         center/contain no-repeat !important;
 }
 .side-8zPYf6 .item-PXvHYJ[aria-controls="plugins-tab"]:before {
-    -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/plugins.svg)
+    -webkit-mask: url(https://jala3400.github.io/Discord_themes/Better_icons/Icons/Others/puzzle.svg)
         center/contain no-repeat !important;
 }
 .side-8zPYf6 .item-PXvHYJ[aria-controls="pluginrepo-tab"]:before {
