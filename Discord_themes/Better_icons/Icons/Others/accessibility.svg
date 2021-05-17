@@ -25,7 +25,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
      inkscape:cx="394.45686"
-     inkscape:cy="472.68033"
+     inkscape:cy="644.1089"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -53,9 +53,10 @@
      id="layer1">
     <g
        id="g849"
-       style="fill:#ffffff;fill-opacity:1">
+       style="fill:none;fill-opacity:1;stroke:#ffffff"
+       transform="matrix(0.97024498,0,0,0.97024498,2.6391119,3.9780952)">
       <circle
-         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:14.6551;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:20.0952;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path10"
          cx="105.50002"
          cy="150.50002"
@@ -63,7 +64,7 @@
     </g>
     <g
        id="g846"
-       transform="matrix(0.97700362,0,0,0.97700362,-96.197131,14.027024)"
+       transform="matrix(0.97237309,0,0,0.97237309,-95.741223,14.149294)"
        style="fill:#ffffff;stroke:none">
       <circle
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.13792;stroke-miterlimit:4;stroke-dasharray:none"
@@ -75,7 +76,7 @@
          id="path841"
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
          inkscape:transform-center-y="-1.8428571e-06"
-         d="m 241.44463,220 c -15.76018,5.05058 -35,-60 -35,-60 0,0 -25.8232,65.39001 -40,60 -14.1768,-5.39001 20,-90 20,-90 0,0 -36.47429,-16.46151 -30,-30 6.47429,-13.538495 33.00327,10 50,10 16.99673,0 43.52571,-23.538495 50,-10 6.47429,13.53849 -30,30 -30,30 0,0 30.76018,84.94942 15,90 z"
+         d="m 241.44463,220 c -15.76018,5.05058 -35,-60 -35,-60 0,0 -21.15862,65.39001 -35.33542,60 -14.1768,-5.39001 15.33542,-90 15.33542,-90 0,0 -36.47429,-16.46151 -30,-30 6.47429,-13.538495 33.00327,10 50,10 16.99673,0 43.52571,-23.538495 50,-10 6.47429,13.53849 -30,30 -30,30 0,0 30.76018,84.94942 15,90 z"
          sodipodi:nodetypes="zczczszcz" />
     </g>
   </g>

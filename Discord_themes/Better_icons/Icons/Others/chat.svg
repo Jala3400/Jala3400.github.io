@@ -50,29 +50,29 @@
      inkscape:current-layer="svg4"
      inkscape:document-rotation="0" />
   <path
-     d="M 19.63741,2.454535 H 4.3648867 c -1.0499859,0 -1.89952,0.8590794 -1.89952,1.9090653 l -0.00955,17.1815877 3.8181307,-3.81813 H 19.63741 c 1.049986,0 1.909065,-0.85908 1.909065,-1.909066 V 4.3636003 c 0,-1.0499859 -0.859079,-1.9090653 -1.909065,-1.9090653 z"
+     d="M 20.000184,1.24994 H 4.001165 c -1.0999327,0 -1.9898781,0.8999448 -1.9898781,1.9998773 L 2.0012827,21.248713 6.001037,17.24896 h 13.999147 c 1.099933,0 1.999878,-0.899946 1.999878,-1.999879 V 3.2498173 c 0,-1.0999325 -0.899945,-1.9998773 -1.999878,-1.9998773 z"
      id="path2"
-     style="fill:none;stroke:#ffffff;stroke-width:1.90907;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:none;stroke:#ffffff;stroke-width:1.99988;stroke-miterlimit:4;stroke-dasharray:none"
      sodipodi:nodetypes="sscccssss" />
   <rect
-     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:56.6929"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:59.3897"
      id="rect22"
-     width="12"
-     height="2"
-     x="6"
-     y="6" />
+     width="12.570827"
+     height="2.0951376"
+     x="5.7140589"
+     y="4.9640589" />
   <rect
-     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:56.6929"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:59.3897"
      id="rect24"
-     width="12"
-     height="2"
-     x="6"
-     y="9" />
+     width="12.570827"
+     height="2.0951376"
+     x="5.7140589"
+     y="8.1067648" />
   <rect
-     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:56.6929"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:59.3897"
      id="rect26"
-     width="8"
-     height="2"
-     x="6"
-     y="12" />
+     width="8.3805504"
+     height="2.0951376"
+     x="5.7140589"
+     y="11.249472" />
 </svg>
