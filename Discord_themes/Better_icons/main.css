@@ -9,7 +9,6 @@
             */
     --smaller-scale: 0.8;
 }
-
 /* TITLE BAR -> ICONS -> NEW GROUP DM */
 /* TITLE BAR -> ICONS -> START VOICE CALL */
 /* TITLE BAR -> ICONS -> START VIDEO CALL */
@@ -772,16 +771,16 @@
     margin-top: -2px;
     background: currentColor;
 }
-.side-8zPYf6 .item-PXvHYJ[aria-controls="My-Account-tab"]:before {
+.side-8zPYf6 .item-PXvHYJ[aria-controls="My Account-tab"]:before {
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/person.svg)
         center/contain no-repeat !important;
 }
-.side-8zPYf6 .item-PXvHYJ[aria-controls="Privacy-&-Safety-tab"]:before,
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Privacy & Safety-tab"]:before,
 .sidebar-CFHs9e .item-PXvHYJ[aria-controls="MODERATION-tab"]:before {
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/security.svg)
         center/contain no-repeat !important;
 }
-.side-8zPYf6 .item-PXvHYJ[aria-controls="Authorized-Apps-tab"]:before {
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Authorized Apps-tab"]:before {
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/apps.svg)
         center/contain no-repeat !important;
 }
@@ -789,16 +788,16 @@
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/link.svg)
         center/contain no-repeat !important;
 }
-.side-8zPYf6 .item-PXvHYJ[aria-controls="Discord-Nitro-tab"]::before {
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Discord Nitro-tab"]::before {
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/nitro.svg)
         center/contain no-repeat !important;
 }
-.side-8zPYf6 .item-PXvHYJ[aria-controls="Nitro-Server-Boost-tab"]:before,
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Nitro Server Boost-tab"]:before,
 .side-8zPYf6 .item-PXvHYJ[aria-controls="GUILD_PREMIUM-tab"]:before {
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/server_boost.svg)
         center/contain no-repeat !important;
 }
-.side-8zPYf6 .item-PXvHYJ[aria-controls="Library-Inventory-tab"]:before {
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Library Inventory-tab"]:before {
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/gift.svg)
         center/contain no-repeat !important;
 }
@@ -806,11 +805,11 @@
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/payment.svg)
         center/contain no-repeat !important;
 }
-.side-8zPYf6 .item-PXvHYJ[aria-controls="Voice-&-Video-tab"]:before {
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Voice & Video-tab"]:before {
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/mic.svg)
         center/contain no-repeat !important;
 }
-.side-8zPYf6 .item-PXvHYJ[aria-controls="Text-&-Images-tab"]:before {
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Text & Images-tab"]:before {
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/chat.svg)
         center/contain no-repeat !important;
 }
@@ -821,6 +820,7 @@
 .side-8zPYf6 .item-PXvHYJ[aria-controls="Accessibility-tab"]:before {
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/accessibility.svg)
         center/contain no-repeat !important;
+        transform: scale(1.2);
 }
 .side-8zPYf6 .item-PXvHYJ[aria-controls="Notifications-tab"]:before {
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/notifications.svg)
@@ -838,7 +838,7 @@
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/windows.svg)
         center/contain no-repeat !important;
 }
-.side-8zPYf6 .item-PXvHYJ[aria-controls="Streamer-Mode-tab"]:before {
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Streamer Mode-tab"]:before {
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/videocam.svg)
         center/contain no-repeat !important;
 }
@@ -846,7 +846,7 @@
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/advanced.svg)
         center/contain no-repeat !important;
 }
-.side-8zPYf6 .item-PXvHYJ[aria-controls="Game-Activity-tab"]:before {
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Game Activity-tab"]:before {
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/games.svg)
         center/contain no-repeat !important;
 }
@@ -858,7 +858,7 @@
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/history.svg)
         center/contain no-repeat !important;
 }
-.side-8zPYf6 .item-PXvHYJ[aria-controls="Hypesquad-Online-tab"]:before {
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Hypesquad Online-tab"]:before {
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/hypesquad.svg)
         center/contain no-repeat !important;
 }
@@ -1048,3 +1048,4 @@ svg
 .homeIcon-FuNwkv > path {
     display: none;
 }
+
