@@ -1,0 +1,73 @@
+:root{
+    --background-primary: rgba(0, 0, 0, 0.5);
+    --background-secondary: rgba(0, 0, 0, 0.25);
+    --background-tertiary: rgba(0, 0, 0, 0.1);
+  --background-image: url(https://4.bp.blogspot.com/-EFQEXmmdBXo/XKG5Noll6xI/AAAAAAAABGw/2epUYa2fuEUzCK0Q9J4ncAr88cG5Q2XSQCKgBGAs/w4096-h2304-c/space-astronaut-sci-fi-uhdpaper.com-4K-111.jpg);
+}
+#app-mount {
+    --background-tertiary: transparent;
+    --background-secondary: transparent;
+    background: var(--background-image) center/cover no-repeat;
+}
+#app-mount > div[class^="app-"] {
+    --background-tertiary: transparent;
+    --background-secondary: rgba(0, 0, 0, 0.1);
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.typeWindows-1za-n7 {
+    background-color: rgba(0, 0, 0, 0.55);
+}
+.scroller-1Bvpku {
+    --background-tertiary: rgba(0, 0, 0, 0.1);
+}
+.platform-win [class^="sidebar-"] {
+    border-radius: 0;
+}
+section[class*="themed-"]::before,
+section[class*="themed-"] ::after {
+    content: none;
+}
+div[class^="sidebar-"] > section {
+    --background-primary: rgba(255, 255, 255, 0.2);
+    --background-secondary: rgba(255, 255, 255, 0.2);
+    --background-secondary-alt: rgba(0, 0, 0, 0.5);
+}
+div[class^="chat-"] {
+    background-color: rgba(0, 0, 0, 0.35);
+}
+section[class^="title-"] {
+    background-color: rgba(0, 0, 0, 0.15) !important;
+}
+.container-1ov-mD > * {
+    background-color: rgba(0, 0, 0, 0.5) !important;
+}
+.scrollableContainer-2NUZem {
+    --channeltextarea-background: rgba(0, 0, 0, 0.8);
+}
+.childWrapper-anI2G9,
+.circleIconButton-1QV--U {
+    --background-primary: rgba(0, 0, 0, 0.4);
+}
+.scroller-RmtA4e,
+.clickable-25tGDB,
+.searchBar-6Kv8R2 {
+    background: rgba(0, 0, 0, 0.1);
+}
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+    background: rgba(255, 255, 255, 0.1);
+}
+.container-1D34oG {
+    background-color: rgba(0, 0, 0, 0.35) !important;
+}
+div[class^="search"] {
+    --background-tertiary: rgba(255, 255, 255, 0.1);
+}
+.wrapper-2aW0bm {
+    --background-primary: rgba(0, 0, 0, 0.4);
+}
+.container-3npvBV {
+    background-color: transparent;
+}
+.actionButton-uPB8Fs {
+    background-color: rgba(0, 0, 0, 0.8);
+}
