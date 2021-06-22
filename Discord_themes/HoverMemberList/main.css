@@ -1,0 +1,54 @@
+.membersWrap-2h-GB4 {
+    width: 54px;
+    min-width: unset;
+    justify-content: unset;
+    transition: var(--m-transition-duration);
+}
+.member-3-YXUe {
+    margin-left: 4px;
+    margin-bottom: 3px;
+}
+.membersWrap-2h-GB4:hover {
+    width: 240px;
+}
+.members-1998pB {
+    padding-top: 6px;
+}
+
+/* ROLE NAME */
+
+.membersGroup-v9BXpm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--main-color);
+    font-weight: 700;
+    text-align: center;
+    transition: var(--m-transition-duration);
+}
+.membersGroup-v9BXpm:hover {
+    color: var(--main-light-color);
+}
+.membersGroup-v9BXpm:before {
+    content: "";
+    height: 2px;
+    flex-grow: 1;
+    background: linear-gradient(to left, var(--main-color), transparent);
+    margin-right: 5px;
+}
+.membersGroup-v9BXpm:after {
+    content: "";
+    height: 2px;
+    flex-grow: 1;
+    background: linear-gradient(to right, var(--main-color), transparent);
+    margin-left: 5px;
+}
+.membersGroup-v9BXpm {
+    height: 0px;
+    padding: 0px;
+    transition: var(--m-transition-duration);
+}
+.membersWrap-2h-GB4:hover .membersGroup-v9BXpm {
+    height: 40px;
+    padding: 15px 8px 5px 16px;
+}
