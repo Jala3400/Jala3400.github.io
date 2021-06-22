@@ -1,3 +1,8 @@
+:root{
+    --main-color:#00c066;
+    --main-light-color:#00ff88;
+    --m-transition-duration:0.3s ease-out;
+}
 .membersWrap-2h-GB4 {
     width: 54px;
     min-width: unset;
