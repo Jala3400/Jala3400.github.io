@@ -1,15 +1,16 @@
 :root {
-    --home-image: url("https://jala3400.github.io//Discord_themes/Better_icons/Icons/Home_icon/Old.svg"); /* Default: url("https://jala3400.github.io//Discord_themes/Better_icons/Icons/Home_icon/Old.svg")
-    Others: https://jala3400.github.io//Discord_themes/Better_icons/Icons/Home_icon/Icono_galaxia-central.svg
-            https://jala3400.github.io//Discord_themes/Better_icons/Icons/Home_icon/Icono_galaxia-nebulosa-roja.svg
-            https://jala3400.github.io//Discord_themes/Better_icons/Icons/Home_icon/Icono_galaxia-nebulosa-rgb.svg
-            https://jala3400.github.io//Discord_themes/Better_icons/Icons/Home_icon/Icono_galaxia-nebulosa-rgb2.svg
-            https://jala3400.github.io//Discord_themes/Better_icons/Icons/Home_icon/Icono_galaxia-burbujas.svg
-            https://jala3400.github.io//Discord_themes/Better_icons/Icons/Home_icon/Icono_hueco.svg
+    --home-image: url("https://jala3400.github.io/Discord_themes/Better_icons/Icons/Home_icon/Old.svg"); /* Default: url("https://jala3400.github.io/Discord_themes/Better_icons/Icons/Home_icon/Icono_galaxia-central.svg")
+    Others: https://jala3400.github.io/Discord_themes/Better_icons/Icons/Home_icon/Icono_galaxia-central.svg
+            https://jala3400.github.io/Discord_themes/Better_icons/Icons/Home_icon/Icono_galaxia-nebulosa-roja.svg
+            https://jala3400.github.io/Discord_themes/Better_icons/Icons/Home_icon/Icono_galaxia-nebulosa-rgb.svg
+            https://jala3400.github.io/Discord_themes/Better_icons/Icons/Home_icon/Icono_galaxia-nebulosa-rgb2.svg
+            https://jala3400.github.io/Discord_themes/Better_icons/Icons/Home_icon/Icono_galaxia-burbujas.svg
+            https://jala3400.github.io/Discord_themes/Better_icons/Icons/Home_icon/Icono_hueco.svg
             data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiBoZWlnaHQ9IjQ4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSI0OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PHBhdGggZD0iTTIxIDZoLTJ2OUg2djJjMCAuNTUuNDUgMSAxIDFoMTFsNCA0VjdjMC0uNTUtLjQ1LTEtMS0xem0tNCA2VjNjMC0uNTUtLjQ1LTEtMS0xSDNjLS41NSAwLTEgLjQ1LTEgMXYxNGw0LTRoMTBjLjU1IDAgMS0uNDUgMS0xeiIvPjwvc3ZnPg==
             */
     --smaller-scale: 0.8;
 }
+
 /* TITLE BAR -> ICONS -> NEW GROUP DM */
 /* TITLE BAR -> ICONS -> START VOICE CALL */
 /* TITLE BAR -> ICONS -> START VIDEO CALL */
@@ -776,6 +777,10 @@
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/person.svg)
         center/contain no-repeat !important;
 }
+.side-8zPYf6 .item-PXvHYJ[aria-controls="Profile Customization-tab"]:before {
+    -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/user_profile.svg)
+        center/contain no-repeat !important;
+}
 .side-8zPYf6 .item-PXvHYJ[aria-controls="Privacy & Safety-tab"]:before,
 .sidebar-CFHs9e .item-PXvHYJ[aria-controls="MODERATION-tab"]:before {
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/security.svg)
@@ -821,7 +826,7 @@
 .side-8zPYf6 .item-PXvHYJ[aria-controls="Accessibility-tab"]:before {
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/accessibility.svg)
         center/contain no-repeat !important;
-        transform: scale(1.2);
+    transform: scale(1.2);
 }
 .side-8zPYf6 .item-PXvHYJ[aria-controls="Notifications-tab"]:before {
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/notifications.svg)
@@ -1050,3 +1055,12 @@ svg
     display: none;
 }
 
+/* Sttings */
+/* 🠗 get rid of the nitro icons 🠗 */
+.icon-Zc-uZZ {
+    display: none;
+}
+/* 🠗 server boost status icon 🠗 */
+.icon-3Povsy {
+    display: none;
+}
