@@ -959,6 +959,7 @@ svg
 .sidebar-CFHs9e .side-8zPYf6 .item-PXvHYJ[aria-controls="STICKERS-tab"]:before {
     -webkit-mask: url(https://Jala3400.github.io/Discord_themes/Better_icons/Icons/Others/sticker.svg)
         center/contain no-repeat !important;
+    transform: scale(var(--smaller-scale)) !important;
 }
 .sidebar-CFHs9e
     .side-8zPYf6
