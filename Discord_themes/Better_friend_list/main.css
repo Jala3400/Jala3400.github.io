@@ -64,6 +64,8 @@
 }
 .mutualGuilds-s7F2aa {
     display: block;
+    flex: 0;
+    margin-bottom: 20px;
 }
 .iconSizeSmaller-2whVAO {
     margin-top: 4px;
