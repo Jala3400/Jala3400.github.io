@@ -17,3 +17,12 @@
 .members-1998pB {
     padding-top: 6px;
 }
+.membersGroup-v9BXpm {
+    height: 0px;
+    padding: 0px;
+    transition: var(--m-transition-duration);
+}
+.membersWrap-2h-GB4:hover .membersGroup-v9BXpm {
+    height: 40px;
+    padding: 15px 8px 5px 16px;
+}
