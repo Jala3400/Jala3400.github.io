@@ -20,7 +20,7 @@
 .membersGroup-v9BXpm {
     height: 0px;
     padding: 0px;
-    transition: var(--m-transition-duration);
+    transition: var(--l-transition-duration);
 }
 .membersWrap-2h-GB4:hover .membersGroup-v9BXpm {
     height: 40px;
